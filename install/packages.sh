@@ -11,7 +11,7 @@ sudo pacman -S --noconfirm --needed \
   fortune-mod \
   fastfetch \
   fd \
-  firefox \
+  floorp-bin \
   fzf \
   gamescope \
   gnome-themes-extra \
@@ -71,4 +71,6 @@ sudo pacman -S --noconfirm --needed \
   yaru-icon-theme \
   yazi \
   yay \
-  zoxide
+  zoxide \
+  vesktop-bin \
+  steam
